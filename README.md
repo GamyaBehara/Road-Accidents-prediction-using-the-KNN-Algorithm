@@ -1,5 +1,5 @@
-### 🚧 Road Accidents Prediction using Machine Learning
-## This project aims to predict the severity of road accidents using machine learning models based on various input factors like road conditions, driver experience, vehicle type, etc.
+## 🚧 Road Accidents Prediction using Machine Learning
+### This project aims to predict the severity of road accidents using machine learning models based on various input factors like road conditions, driver experience, vehicle type, etc.
 
 
 
