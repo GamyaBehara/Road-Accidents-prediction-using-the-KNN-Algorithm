@@ -1,23 +1,14 @@
 ## 🚧 Road Accidents Prediction using Machine Learning
-### This project aims to predict the severity of road accidents using machine learning models based on various input factors like road conditions, driver experience, vehicle type, etc.
+## This project aims to predict the severity of road accidents using machine learning models based on various input factors like road conditions, driver experience, vehicle type, etc.
 
+##📐 Model Design
+##The design includes the machine learning pipeline, preprocessing, and the classification logic used for prediction.
 
+##Model Architecture
+<img width="1580" height="426" alt="image" src="https://github.com/user-attachments/assets/47929a48-4af8-44b5-8899-93d40ed6a275" />
 
-design of the model
-<img width="875" height="734" alt="image" src="https://github.com/user-attachments/assets/111d63fe-2eba-4c60-95b1-24aa2252dce4" />
-<img width="1580" height="426" alt="image" src="https://github.com/user-attachments/assets/a3c2d2bf-930e-4499-b6f6-e8957344fc01" />
-<img width="1080" height="667" alt="image" src="https://github.com/user-attachments/assets/52cb3e08-8100-4395-8535-13d8637ba266" />
+##Feature Analysis	
+<img width="875" height="734" alt="image" src="https://github.com/user-attachments/assets/b3e9d99f-a60f-4198-98c9-8c9e47856a4a" />
 
-
-application screenshots
-dashboard:
-<img width="1080" height="609" alt="image" src="https://github.com/user-attachments/assets/d292b38d-ce64-4fee-9394-a6a263778121" />
-Classification report
-<img width="1006" height="773" alt="image" src="https://github.com/user-attachments/assets/ddb04b8f-b2d0-45cb-ad96-220930df2ed5" />
-Accuracy score 
-<img width="1004" height="279" alt="image" src="https://github.com/user-attachments/assets/b24b6faa-b445-492c-8791-439802b48249" />
-Features of all attributes
-<img width="1080" height="482" alt="image" src="https://github.com/user-attachments/assets/c43be1e2-d87d-4074-adbb-3231e9823731" />
-Saved prediction
-
-<img width="500" height="76" alt="image" src="https://github.com/user-attachments/assets/aec5276c-c790-424f-babb-f8b0f5311fa6" />
+##Data Flow
+<img width="691" height="427" alt="image" src="https://github.com/user-attachments/assets/b8ebd729-5ac5-4cfa-81a8-7a1bd0500a94" />
