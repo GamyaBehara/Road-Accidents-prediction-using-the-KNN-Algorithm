@@ -1,3 +1,8 @@
+### 🚧 Road Accidents Prediction using Machine Learning
+## This project aims to predict the severity of road accidents using machine learning models based on various input factors like road conditions, driver experience, vehicle type, etc.
+
+
+
 design of the model
 <img width="875" height="734" alt="image" src="https://github.com/user-attachments/assets/111d63fe-2eba-4c60-95b1-24aa2252dce4" />
 <img width="1580" height="426" alt="image" src="https://github.com/user-attachments/assets/a3c2d2bf-930e-4499-b6f6-e8957344fc01" />
@@ -14,4 +19,5 @@ Accuracy score
 Features of all attributes
 <img width="1080" height="482" alt="image" src="https://github.com/user-attachments/assets/c43be1e2-d87d-4074-adbb-3231e9823731" />
 Saved prediction
+
 <img width="500" height="76" alt="image" src="https://github.com/user-attachments/assets/aec5276c-c790-424f-babb-f8b0f5311fa6" />
